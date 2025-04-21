@@ -7,5 +7,10 @@
   {
     "name": "piumal Plugin",
     "entry": "./plugins/piumal-plugin/plugin.js"
+  },
+  {
+    "name": "conflict-plugin",
+    "path": "./plugins/conflict-plugin-/plugin.js"
   }
+  
 ]
